@@ -1,4 +1,4 @@
-{:toc}
+* TOC {:toc}
 
 ## Welcome to GitHub Pages - Test !!!!
 
