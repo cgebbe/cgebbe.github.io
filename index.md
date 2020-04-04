@@ -10,11 +10,14 @@
 
 | Project name                         | Description          | Link to repository                                      |
 | ------------------------------------ | -------------------- | ------------------------------------------------------- |
-| Kaggle competition                   | 3D detection of cars | https://github.com/cgebbe/kaggle_pku-autonomous-driving |
+| Kaggle competition                   | 3D detection of cars | <https://github.com/cgebbe/kaggle_pku-autonomous-driving> |
 | Coursera course Robotics: perception | XXX                  | XXX                                                     |
 
 
 ## 1.2
+https://github.com/cgebbe/kaggle_pku-autonomous-driving
+
+<https://github.com/cgebbe/kaggle_pku-autonomous-driving>
 
 # 2
 
