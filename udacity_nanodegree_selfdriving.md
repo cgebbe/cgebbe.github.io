@@ -1,6 +1,6 @@
 ### Udacity Nanodegree "Self-Driving Car Engineer" 
 
-See a more detailed syllabus here https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+See a more detailed syllabus here <https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013>
 
 | Topic              | Lessons                                                      | Project (with link to my repo)                               |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
