@@ -1,13 +1,13 @@
 ### Courses
 
-- [**Udactiy Nanodegree**  Self-Driving Car Engineer](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
+- [**Udacity Nanodegree** Self-Driving Car Engineer](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
 - [**Coursera course** Robotics: perception](https://github.com/cgebbe/coursera_robotics_perception)
 
 
 
 ### Kaggle competitions
 
-- [**Kaggle competition** on 3D car detection by Baidu](https://github.com/cgebbe/kaggle_pku-autonomous-driving)  
+- [**3D car detection** hosted by Baidu](https://github.com/cgebbe/kaggle_pku-autonomous-driving)  
 
 
 
