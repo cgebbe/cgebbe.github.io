@@ -14,3 +14,5 @@
 ### Demos
 
 - [Simple **SLAM** pipeline using opencv](https://github.com/cgebbe/demo_slam)
+- [Understanding **Adam** (the optimization algorithm)](https://github.com/cgebbe/demo_optimizer)
+
