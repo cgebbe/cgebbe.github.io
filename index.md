@@ -1,7 +1,7 @@
 ### Courses
 
-- [**Udacity Nanodegree** Self-Driving Car Engineer](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
-- [**Coursera course** Robotics: perception](https://github.com/cgebbe/coursera_robotics_perception)
+- [Udacity Nanodegree **Self-Driving Car Engineer**](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
+- [Coursera course **Robotics: perception**](https://github.com/cgebbe/coursera_robotics_perception)
 
 
 
@@ -15,4 +15,5 @@
 
 - [Simple **SLAM** pipeline using opencv](https://github.com/cgebbe/demo_slam)
 - [Understanding **Adam** (the optimization algorithm)](https://github.com/cgebbe/demo_optimizer)
+- [Understanding **Bayes, Kalman and Particle filter**](https://github.com/cgebbe/demo_kalman)
 
