@@ -6,7 +6,7 @@
 ### Competitions
 
 - [Kaggle: **3D car detection** hosted by Baid - placed top 17%](https://github.com/cgebbe/kaggle_pku-autonomous-driving)  
-- [Leetcode profile: Solved 136 **data structures and algorithms** problems](https://leetcode.com/cgebbe/)
+- [Leetcode profile: Solved 136 **data structures and algorithms** puzzles](https://leetcode.com/cgebbe/)
 
 ### Demos
 
