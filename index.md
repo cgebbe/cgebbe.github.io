@@ -13,4 +13,4 @@
 - [Simple **SLAM** pipeline using opencv](https://github.com/cgebbe/demo_slam)
 - [Understanding **Adam** (the optimization algorithm)](https://github.com/cgebbe/demo_optimizer)
 - [Understanding **Bayes, Kalman and Particle filter**](https://github.com/cgebbe/demo_kalman)
-
+- [**Style transfer** according to Gatys et al.](https://github.com/cgebbe/demo_style_gatys)
