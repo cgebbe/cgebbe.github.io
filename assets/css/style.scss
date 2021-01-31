@@ -9,5 +9,6 @@ $section-headings-color: #404040;
 
 thead {background-color: #DDDDDD;}
 tr:hover {background-color: #DDDDDD;}
+td:first-child {min-width: 300px; text-align:center}
 
 @import 'jekyll-theme-cayman';
