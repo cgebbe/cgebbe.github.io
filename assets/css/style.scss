@@ -7,8 +7,12 @@ $header-bg-color: #404040;
 $header-bg-color-secondary: #404040;
 $section-headings-color: #404040;
 
+
 thead {background-color: #DDDDDD;}
 tr:hover {background-color: #DDDDDD;}
-td:first-child {min-width: 300px; text-align:center}
+
+td:first-child {width: 300px; text-align:center}
+td {width: 400px}
+
 
 @import 'jekyll-theme-cayman';

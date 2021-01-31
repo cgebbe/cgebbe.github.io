@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 | COURSES                                                      |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -6,13 +9,15 @@
 
 
 
+<br>
+
 | COMPETITIONS                                                |                                                              |
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="imgs/competitions/kaggle_3dcar.png" height="150"> | [Kaggle: **3D car detection** hosted by Baid - placed top 17%](https://github.com/cgebbe/kaggle_pku-autonomous-driving) |
 | <img src="imgs/competitions/leetcode.png" height="150">     | [Leetcode: Solved 143 **data structures and algorithms** puzzles](https://leetcode.com/cgebbe/) |
 
 
-
+<br>
 
 
 | DEMOS                                                        |                                                              |
