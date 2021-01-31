@@ -4,15 +4,15 @@
 // see https://github.com/tuur29/pages-themes-cayman/blob/master/assets/css/style.scss
 
 $header-bg-color: #404040;
-$header-bg-color-secondary: #404040;
+$header-bg-color-secondary: #202020;
 $section-headings-color: #404040;
 
 
 thead {background-color: #DDDDDD;}
 tr:hover {background-color: #DDDDDD;}
 
-td:first-child {width: 300px; text-align:center}
-td {width: 400px}
+td:first-child {width: 350px; text-align:center}
+td {width: 450px}
 
 
 @import 'jekyll-theme-cayman';
