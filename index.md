@@ -1,12 +1,16 @@
-# Courses
 
-| <img src="index.assets/udacity_carnd.gif" height="150"> | [Udacity Nanodegree **Self-Driving Car Engineer**](https://cgebbe.github.io/udacity_nanodegree_selfdriving) |
-| ------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="index.assets/coursera_perception.gif" height="150">  | [Coursera course **Robotics: perception**](https://github.com/cgebbe/coursera_robotics_perception) |
-|                                                         |                                                              |
-|                                                         |                                                              |
+| COURSES                                                      |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="index.assets/udacity_carnd.gif" height="150">      | [Udacity Nanodegree **Self-Driving Car Engineer**](https://cgebbe.github.io/udacity_nanodegree_selfdriving) |
+| <img src="index.assets/coursera_perception.gif" height="150"> | [Coursera course **Robotics: perception**](https://github.com/cgebbe/coursera_robotics_perception) |
+
+
+
+
 
 ### Competitions
+
+
 
 - [Kaggle: **3D car detection** hosted by Baid - placed top 17%](https://github.com/cgebbe/kaggle_pku-autonomous-driving)  
 - [Leetcode: Solved 136 **data structures and algorithms** puzzles](https://leetcode.com/cgebbe/)
