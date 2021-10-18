@@ -6,6 +6,7 @@ layout: default
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="imgs/courses/udacity_carnd.gif" height="150">      | [Udacity Nanodegree **Self-Driving Car Engineer**](https://cgebbe.github.io/udacity_nanodegree_selfdriving) |
 | <img src="imgs/courses/coursera_perception.gif" height="150"> | [Coursera course **Robotics: perception**](https://github.com/cgebbe/coursera_robotics_perception) |
+| <img src="imgs/courses/kaggle.png" height="150">             | [Coursera course: How to win a **data science competition**](https://github.com/cgebbe/coursera_win_competition) |
 
 
 
@@ -27,6 +28,9 @@ layout: default
 | <img src="imgs/demos/adam_optimizer.png" height="150">       | [Understanding **Adam** (the optimization algorithm)](https://github.com/cgebbe/demo_optimizer) |
 | <img src="imgs/demos/style_transfer_gatys.png" height="150"> | [**Style transfer** according to Gatys et al.](https://github.com/cgebbe/demo_style_gatys) |
 | <img src="imgs/demos/kalman.png" height="150">               | [Understanding **Bayes, Kalman and Particle filter**](https://github.com/cgebbe/demo_kalman) |
+| <img src="imgs/demos/job_skills.png" height="150">           | [Clustering job postings using **BERT embeddings**](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff) |
+
+
 
 
 
