@@ -7,10 +7,10 @@ HEADER = """
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Christian Gebbe">
     <link rel="icon" href="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Album example for Bootstrap</title>
+    <title>cgebbe.github.io</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/album/">
 
@@ -104,6 +104,11 @@ def _get_items_by_section() -> Dict[str, List[Item]]:
             image_path="imgs/courses/kaggle.png",
             description="Coursera course: How to win a data science competition",
             link="https://github.com/cgebbe/coursera_win_competition"
+        ),
+        Item(
+            image_path="imgs/courses/full_stack_deep_learning.png",
+            description="Online course: Full Stack Deep Learning",
+            link="https://github.com/cgebbe/course_full_stack_deep_learning"
         ),
     ]
     items_by_section["Competitions"] = [
