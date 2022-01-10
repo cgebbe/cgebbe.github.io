@@ -87,28 +87,29 @@ def _create_html(items_by_section: Dict[str, List[Item]]) -> str:
         page += SECTION_END
     return page
 
+
 def _get_items_by_section() -> Dict[str, List[Item]]:
-    items_by_section=dict()
+    items_by_section = dict()
     items_by_section["Courses"] = [
         Item(
             image_path="imgs/courses/udacity_carnd.gif",
             description="Udacity Nanodegree Self-Driving Car Engineer",
-            link="https://cgebbe.github.io/udacity_nanodegree_selfdriving"
+            link="https://cgebbe.github.io/udacity_nanodegree_selfdriving",
         ),
         Item(
             image_path="imgs/courses/coursera_perception.gif",
             description="Coursera course Robotics: perception",
-            link="https://github.com/cgebbe/coursera_robotics_perception"
+            link="https://github.com/cgebbe/coursera_robotics_perception",
         ),
         Item(
             image_path="imgs/courses/kaggle.png",
             description="Coursera course: How to win a data science competition",
-            link="https://github.com/cgebbe/coursera_win_competition"
+            link="https://github.com/cgebbe/coursera_win_competition",
         ),
         Item(
             image_path="imgs/courses/full_stack_deep_learning.png",
             description="Online course: Full Stack Deep Learning",
-            link="https://github.com/cgebbe/course_full_stack_deep_learning"
+            link="https://github.com/cgebbe/course_full_stack_deep_learning",
         ),
     ]
     items_by_section["Competitions"] = [
@@ -134,6 +135,11 @@ def _get_items_by_section() -> Dict[str, List[Item]]:
         ),
     ]
     items_by_section["Prototpyes"] = [
+        Item(
+            image_path="imgs/demos/ner_nobel_laureate.png",
+            description="Named-entity recognition (NER) using huggingface",
+            link="https://github.com/cgebbe/prototype_ner_nobel_laureate",
+        ),
         Item(
             image_path="imgs/demos/slam.gif",
             description="Simple SLAM pipeline using opencv",
