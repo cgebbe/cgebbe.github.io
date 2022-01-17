@@ -141,6 +141,11 @@ def _get_items_by_section() -> Dict[str, List[Item]]:
             link="https://github.com/cgebbe/prototype_ner_nobel_laureate",
         ),
         Item(
+            image_path="imgs/demos/aws_lambda.png",
+            description="Model deployment to AWS Lambda with REST API",
+            link="https://github.com/cgebbe/prototype_aws_lambda",
+        ),
+        Item(
             image_path="imgs/demos/slam.gif",
             description="Simple SLAM pipeline using opencv",
             link="https://github.com/cgebbe/demo_slam",
