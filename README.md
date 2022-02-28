@@ -1,28 +1,13 @@
-- [Original code](#original-code)
-  - [Competitions](#competitions)
-  - [Prototypes](#prototypes)
-  - [Write-ups](#write-ups)
-- [Course notes](#course-notes)
-- [Books](#books)
-  - [Algorithms and Data structures](#algorithms-and-data-structures)
-  - [Python](#python)
-  - [C++](#c)
-  - [Computer Vision](#computer-vision)
-  - [Embedded Systems](#embedded-systems)
-  - [Machine Learning](#machine-learning)
-  - [Desing Patterns](#desing-patterns)
-  - [Clean and Pragmatic Code](#clean-and-pragmatic-code)
-  - [Architecture](#architecture)
-  - [Refactoring and Testing](#refactoring-and-testing)
+# Original Code
 
-# Original code
+Examples of my original code for competitions or prototypes.
 
 ## Competitions
 
 - [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 - [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
 - [Ventilator pressure prediction challenge by Kaggle](https://github.com/cgebbe/kaggle_ventilator_pressure)
-- [~150 data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
+- [Data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
 
 ## Prototypes
 
@@ -38,6 +23,8 @@
 - [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
 
 # Course notes
+
+Notes for online courses I've completed (including assignments).
 
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
 - [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
