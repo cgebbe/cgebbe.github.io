@@ -24,7 +24,7 @@ Examples of my original code for competitions or prototypes.
 
 # Course notes
 
-Notes for online courses I've completed (including assignments).
+List of online courses I've completed, including notes and assignments.
 
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
 - [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
