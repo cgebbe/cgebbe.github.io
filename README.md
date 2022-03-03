@@ -27,6 +27,7 @@ Examples of my original code for competitions or prototypes.
 List of online courses I've completed, including notes and assignments.
 
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
+- [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
 - [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
 - [SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
 - [Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
