@@ -4,9 +4,9 @@ Examples of my original code for competitions or prototypes.
 
 ## Competitions
 
-- [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
-- [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
 - [Ventilator pressure prediction challenge by Kaggle](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
+- [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 - [Data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
 
 ## Prototypes
@@ -32,9 +32,9 @@ List of online courses I've completed, including notes and assignments.
 - [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
 - [SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
 - [Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
-- [Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
-- [Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
 - [How to win a data science competition by Coursera](https://github.com/cgebbe/coursera_win_competition)
+- [Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
+- [Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
 
 # Books
 
