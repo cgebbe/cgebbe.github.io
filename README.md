@@ -11,6 +11,7 @@ Examples of my original code for competitions or prototypes.
 
 ## Prototypes
 
+- [Better named-entity recognition (NER) with entity-linking](https://github.com/cgebbe/prototype_relation_extraction)
 - [Deploying FastAPI or Streamlit Apps to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
 - [Named-entity recognition (NER) using huggingface](https://github.com/cgebbe/prototype_ner_nobel_laureate)
 - [Model deployment to AWS Lambda using REST API](https://github.com/cgebbe/prototype_aws_lambda)
