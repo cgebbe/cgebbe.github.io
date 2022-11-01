@@ -28,6 +28,7 @@ Examples of my original code for competitions or prototypes.
 
 List of online courses I've completed, including notes and assignments.
 
+- [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
 - [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
 - [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
