@@ -102,7 +102,8 @@ Books I've read or at least skimmed through.
 ## Refactoring and Testing
 
 - [Working Effectively with Legacy Code by Feathers](https://www.amazon.de/-/en/Michael-C-Feathers/dp/0131177052/ref=sr_1_1?crid=1OYTLARX4LJLI&keywords=Working+Effectively+with+Legacy+Code+by+Feathers&qid=1644526764&sprefix=working+effectively+with+legacy+code+by+feathers%2Caps%2C63&sr=8-1)
-- [Art of Unit Testing by Osherove](https://www.amazon.de/-/en/Roy-Osherove/dp/1617290890/ref=sr_1_1?crid=DJWID6HU2572&keywords=Art+of+Unit+Testing&qid=1644526777&sprefix=art+of+unit+testing%2Caps%2C111&sr=8-1)
+- ~~[Art of Unit Testing by Osherove](https://www.amazon.de/-/en/Roy-Osherove/dp/1617290890/ref=sr_1_1?crid=DJWID6HU2572&keywords=Art+of+Unit+Testing&qid=1644526777&sprefix=art+of+unit+testing%2Caps%2C111&sr=8-1)~~ (dislike this one)
+- [Unit Testing: Principles, Practices, and Patterns by Khorikov](https://www.amazon.de/-/en/Vladimir-Khorikov/dp/1617296279)
 
 ## Web Frontend and Backend
 
