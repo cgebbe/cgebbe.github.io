@@ -91,6 +91,7 @@ Books I've read or at least skimmed through.
 
 - TODO: [The Passionate Programmer by Fowler](https://www.amazon.de/-/en/Chad-Fowler/dp/1934356344/ref=sr_1_1?crid=36DN60RR0EL4&keywords=The+Passionate+Programmer+by+Fowler&qid=1644526087&sprefix=the+passionate+programmer+by+fowler%2Caps%2C74&sr=8-1)
 - TODO: [The Clean Coder by Martin](https://www.amazon.de/-/en/Robert-C-Martin/dp/0137081073/ref=sr_1_3?crid=29R4D3S3M6Z2H&keywords=Clean+Code+by+Martin&qid=1644526106&sprefix=clean+code+by+martin+%2Caps%2C83&sr=8-3)
+- [Software Engineering at Google by Winters](https://www.amazon.de/gp/product/B0859PF5HB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Pragmatic Programmer by Thomas](https://www.amazon.de/-/en/David-Thomas/dp/0135957052/ref=sr_1_1?crid=3ELC55BGIESOP&keywords=pragmatic+programmierer+von+thomas&qid=1644526073&sprefix=pragmatic+programmer+by+thomas%2Caps%2C93&sr=8-1)
 - [Programming Pearls by Bentley](https://www.amazon.de/-/en/Jon-Bentley/dp/0201657880/ref=sr_1_1?crid=3SW8XWONZ2QSJ&keywords=Programming+Pearls+by+Bentley&qid=1644526059&sprefix=programming+pearls+by+bentley%2Caps%2C65&sr=8-1)
 - [Code Complete by McConnel](https://www.amazon.de/-/en/Steve-McConnell/dp/0735619670/ref=sr_1_1?crid=Z7QYDDTI2NIQ&keywords=code+complete+by+mcconnell&qid=1644526027&sprefix=code+complete+by+mcconnel%2Caps%2C89&sr=8-1)
