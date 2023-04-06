@@ -1,13 +1,6 @@
 # Original Code
 
-Examples of my original code for competitions or prototypes.
-
-## Competitions
-
-- [Ventilator pressure prediction challenge by Kaggle](https://github.com/cgebbe/kaggle_ventilator_pressure)
-- [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
-- [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
-- [Data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
+Examples of my original code.
 
 ## Prototypes
 
@@ -24,10 +17,22 @@ Examples of my original code for competitions or prototypes.
 - [Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
 - [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
 
+
+## Competitions
+
+- [Ventilator pressure prediction challenge by Kaggle](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
+- [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
+- [Data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
+
+
 # Course notes
 
-List of online courses I've completed, including notes and assignments.
+List of online courses I've completed or planned, including notes and assignments.
 
+- TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
+- TODO: [AWS Certified Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
 - [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
@@ -53,7 +58,6 @@ Books I've read or at least skimmed through.
 
 - [Effective Python: 59 Specific Ways to Write Better Python by Slatkin](https://www.amazon.de/-/en/gp/product/B00TKGY0GU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Fluent Python: Clear, Concise, and Effective Programming by Ramalho](https://www.amazon.de/-/en/Luciano-Ramalho/dp/1491946008/ref=sr_1_2?crid=31VR1GVNC2COR&keywords=Fluent+Python+by+Ramalho&qid=1644525001&s=books&sprefix=fluent+python+by+ramalho%2Cstripbooks%2C88&sr=1-2)
-- [Flask Web Develoment by Grinberg](https://www.amazon.de/-/en/gp/product/B07B8DCCN7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## C++
 
@@ -93,8 +97,15 @@ Books I've read or at least skimmed through.
 - TODO: [The Passionate Programmer by Fowler](https://www.amazon.de/-/en/Chad-Fowler/dp/1934356344/ref=sr_1_1?crid=36DN60RR0EL4&keywords=The+Passionate+Programmer+by+Fowler&qid=1644526087&sprefix=the+passionate+programmer+by+fowler%2Caps%2C74&sr=8-1)
 - TODO: [The Clean Coder by Martin](https://www.amazon.de/-/en/Robert-C-Martin/dp/0137081073/ref=sr_1_3?crid=29R4D3S3M6Z2H&keywords=Clean+Code+by+Martin&qid=1644526106&sprefix=clean+code+by+martin+%2Caps%2C83&sr=8-3)
 
+## DevOps
+
+- [Accelerate: The Science of Lean Software and DevOps by Forsgren](https://www.amazon.de/gp/product/B07B9F83WM/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1)
+- [The DevOps Handbook by Kim](https://www.amazon.de/gp/product/B09G2GS39R/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1)
+
 ## Architecture
 
+- TODO: [Books by Joel Spolsky](https://www.joelonsoftware.com/buy-the-books/)
+- [Designing Data Intensive Applications by Kleppmann](https://www.amazon.de/gp/product/B06XPJML5D/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1)
 - [Clean Architecture by Martin](https://www.amazon.de/-/en/Robert-C-Martin/dp/0134494164/ref=pd_bxgy_img_2/259-1609427-7368537?pd_rd_w=tXDvt&pf_rd_p=a2e044d8-c6c4-472e-be1b-004f9c16cb56&pf_rd_r=Q6GP8JKY4JM62PTNZXFX&pd_rd_r=bcbb55a8-9df3-4ee8-b496-941bc910a1d9&pd_rd_wg=kAshe&pd_rd_i=0134494164&psc=1)
 - [Object-Oriented Analysis & Design by McLaughlin](https://www.amazon.de/-/en/Brett-D-McLaughlin-ebook/dp/B06XNJ5FM8/ref=sr_1_1?crid=PYITYO1Z8WJJ&keywords=objektorientierte+analyse+%26+design+von+mclaughlin&qid=1644525979&sprefix=object-oriented+analysis+%26+design+by+mclaughlin%2Caps%2C69&sr=8-1)
 - [Composing Software by Elliott](https://www.amazon.de/-/en/Eric-Elliott/dp/1661212565)
@@ -105,6 +116,13 @@ Books I've read or at least skimmed through.
 - ~~[Art of Unit Testing by Osherove](https://www.amazon.de/-/en/Roy-Osherove/dp/1617290890/ref=sr_1_1?crid=DJWID6HU2572&keywords=Art+of+Unit+Testing&qid=1644526777&sprefix=art+of+unit+testing%2Caps%2C111&sr=8-1)~~ (dislike this one)
 - [Unit Testing: Principles, Practices, and Patterns by Khorikov](https://www.amazon.de/-/en/Vladimir-Khorikov/dp/1617296279)
 
-## Web Frontend and Backend
+## Web Development
 
 - [Building Microservices by Sam Newman](https://www.amazon.de/gp/product/B09B5L4NVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Flask Web Develoment by Grinberg](https://www.amazon.de/-/en/gp/product/B07B8DCCN7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+## Product Development 
+
+- TODO: [Books by 37signals](https://37signals.com/books/)
+- [Shape Up by Singer](https://basecamp.com/shapeup)
+- [The Lean Startup](https://www.amazon.de/gp/product/B004J4XGN6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
