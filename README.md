@@ -13,6 +13,7 @@ Examples of publicly available code I've written myself.
 
 ## Prototypes (code + dummy data)
 
+- [Library to cache function output to disk](https://github.com/cgebbe/disk_cacher)
 - [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
 - [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
 - [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
