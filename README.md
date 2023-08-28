@@ -1,37 +1,39 @@
 # Original Code
 
-Examples of my original code.
+Examples of publicly available code I've written myself.
 
-## Prototypes
+## Data Science Projects (code + relevant data)
 
-- [Better named-entity recognition (NER) with entity-linking](https://github.com/cgebbe/prototype_relation_extraction)
-- [Deploying FastAPI or Streamlit Apps to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
-- [Named-entity recognition (NER) using huggingface](https://github.com/cgebbe/prototype_ner_nobel_laureate)
-- [Model deployment to AWS Lambda using REST API](https://github.com/cgebbe/prototype_aws_lambda)
+- [Identifying named entities including entity-links in job postings](https://github.com/cgebbe/prototype_relation_extraction)
+- [Identifying named entities in job postings using huggingface](https://github.com/cgebbe/prototype_ner_nobel_laureate)
 - [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
-- [Style transfer according to Gatys et al.](https://github.com/cgebbe/demo_style_gatys)
-- [Simple SLAM pipeline using OpenCV](https://github.com/cgebbe/demo_slam)
+- [Predicting the pressure of a medical ventilator (Kaggle)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
+- [Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 
-## Write-ups
+## Prototypes (code + dummy data)
+
+- [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
+- [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
+- [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
+- [Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
+
+## Write-ups (text + optionally some code)
 
 - [Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
 - [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
 
+## Data Structure and Algorithm Problems
 
-## Competitions
+- [143 solved problems in leetcode](https://leetcode.com/cgebbe/)
 
-- [Ventilator pressure prediction challenge by Kaggle](https://github.com/cgebbe/kaggle_ventilator_pressure)
-- [Predict future sales competition by Kaggle](https://github.com/cgebbe/kaggle_predict_future_sales)
-- [3D car detection competition by Kaggle](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
-- [Data structures and algorithms puzzles by leetcode](https://leetcode.com/cgebbe/)
+# Course notes and projects
 
-
-# Course notes
-
-List of online courses I've completed or planned, including notes and assignments.
+List of online courses I've completed or planned, including notes and projects.
 
 - TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
 - TODO: [AWS Certified Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [Data Engineer Nanodegree by Udacity](https://github.com/cgebbe/udacity_data_engineer)
 - [Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
 - [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
@@ -121,7 +123,7 @@ Books I've read or at least skimmed through.
 - [Building Microservices by Sam Newman](https://www.amazon.de/gp/product/B09B5L4NVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Flask Web Develoment by Grinberg](https://www.amazon.de/-/en/gp/product/B07B8DCCN7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-## Product Development 
+## Product Development
 
 - TODO: [Books by 37signals](https://37signals.com/books/)
 - [Shape Up by Singer](https://basecamp.com/shapeup)
