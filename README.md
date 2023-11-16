@@ -1,3 +1,22 @@
+# Course notes and projects
+
+List of online courses I've completed or planned, including notes and projects.
+
+- TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
+- [AWS Certified Solutions Architect](https://github.com/cgebbe/aws_certificates)
+- [Data Engineer Nanodegree by Udacity](https://github.com/cgebbe/udacity_data_engineer)
+- [Udemy NoCode courses (bubble, zapier, figma, etc.)](https://github.com/cgebbe/nocode_information)
+- [Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
+- [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
+- [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
+- [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
+- [SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
+- [Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
+- [How to win a data science competition by Coursera](https://github.com/cgebbe/coursera_win_competition)
+- [Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
+- [Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
+
 # Original Code
 
 Examples of publicly available code I've written myself.
@@ -27,24 +46,6 @@ Examples of publicly available code I've written myself.
 ## Data Structure and Algorithm Problems
 
 - [143 solved problems in leetcode](https://leetcode.com/cgebbe/)
-
-# Course notes and projects
-
-List of online courses I've completed or planned, including notes and projects.
-
-- TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
-- TODO: [AWS Certified Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-- [Data Engineer Nanodegree by Udacity](https://github.com/cgebbe/udacity_data_engineer)
-- [Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
-- [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
-- [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
-- [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
-- [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
-- [SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
-- [Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
-- [How to win a data science competition by Coursera](https://github.com/cgebbe/coursera_win_competition)
-- [Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
-- [Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
 
 # Books
 
