@@ -1,4 +1,4 @@
-# Course notes and projects
+# Online Courses
 
 List of online courses I've completed, including notes and projects.
 
@@ -80,13 +80,18 @@ Books I've read or at least skimmed through.
 - [Embedded System Design - A Unified Hardware/Software Introduction by Vahid](https://www.amazon.de/-/en/gp/product/0471386782/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Digital Design by Vahid](https://www.amazon.de/gp/product/8126523425/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
+## Cloud
+
+- [AWS for Solutions Architects](https://www.amazon.de/-/en/gp/product/B0B1DTV99G)
+
 ## Machine Learning
 
+- [Practical Statistics for Data Scientists](https://www.amazon.de/-/en/gp/product/B08712TT3F)
 - [Deep Learning by Ian Goodfellow](https://www.amazon.de/dp/B08FH8Y533/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Deep Learning with Python by Chollet](https://www.amazon.de/-/en/Francois-Chollet/dp/1617294438/ref=sr_1_2?crid=11G1GTQR5M9FW&keywords=deep+learning+with+python+chollet&qid=1644525436&sprefix=deep+learning+with+python+cholle%2Caps%2C85&sr=8-2)
 - [Pattern Recognition and Machine Learning by Bishop](https://www.amazon.de/-/en/Christopher-M-Bishop/dp/0387310738)
 
-## Desing Patterns
+## Design Patterns
 
 - [Design Patterns by Shvets](https://refactoring.guru/design-patterns/book)
 - [Design Patterns - Elements of Reusable Object-Oriented Software by Gamma](https://www.amazon.de/dp/B000SEIBB8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
