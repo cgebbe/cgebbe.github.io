@@ -1,6 +1,6 @@
 # Course notes and projects
 
-List of online courses I've completed or planned, including notes and projects.
+List of online courses I've completed, including notes and projects.
 
 - TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
 - [AWS Certified Solutions Architect](https://github.com/cgebbe/aws_certificates)
@@ -19,27 +19,27 @@ List of online courses I've completed or planned, including notes and projects.
 
 # Original Code
 
-Examples of publicly available code I've written myself.
+Examples of publicly available code I've written.
 
-## Data Science Projects (code + relevant data)
+## Data Science Projects
 
 - [Identifying named entities including entity-links in job postings](https://github.com/cgebbe/prototype_relation_extraction)
-- [Identifying named entities in job postings using huggingface](https://github.com/cgebbe/prototype_ner_nobel_laureate)
-- [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
 - [Predicting the pressure of a medical ventilator (Kaggle)](https://github.com/cgebbe/kaggle_ventilator_pressure)
 - [Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
 - [Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 
-## Prototypes (code + dummy data)
+## Apps
 
-- [Library to cache function output to disk](https://github.com/cgebbe/disk_cacher)
+- [Saving files to a data lake with reproducibility and metadata: Elliptio](https://github.com/cgebbe/elliptio_data_lake)
+- [Caching function output to disk](https://github.com/cgebbe/disk_cacher)
 - [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
 - [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
 - [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
 - [Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
 
-## Write-ups (text + optionally some code)
+## Articles
 
+- [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
 - [Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
 - [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
 
