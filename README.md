@@ -21,31 +21,30 @@ List of online courses I've completed, including notes and projects.
 
 Examples of publicly available code I've written.
 
+## Python libraries
+
+- [Elliptio: Saving files to a data lake with reproducibility and metadata](https://github.com/cgebbe/elliptio_data_lake)
+- [Cachephant: Caching function output to disk](https://github.com/cgebbe/cachephant)
+- [Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
+
 ## Data Science Projects
 
-- [Identifying named entities including entity-links in job postings](https://github.com/cgebbe/prototype_relation_extraction)
-- [Predicting the pressure of a medical ventilator (Kaggle)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
 - [Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
 - [Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
-
-## Apps
-
-- [Saving files to a data lake with reproducibility and metadata: Elliptio](https://github.com/cgebbe/elliptio_data_lake)
-- [Caching function output to disk](https://github.com/cgebbe/disk_cacher)
-- [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
-- [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
-- [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
-- [Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
-
-## Articles
-
-- [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
 - [Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
+- [Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
 - [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
 
-## Data Structure and Algorithm Problems
+## Sandboxes
 
-- [143 solved problems in leetcode](https://leetcode.com/cgebbe/)
+- [Syncing local code to Kaggle (enefit energy prediction challenge)](https://github.com/cgebbe/kaggle_enefit_predict_energy)
+- [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
+- [Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
+- [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
+- [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
+- [~150 solved problems in leetcode](https://leetcode.com/cgebbe/)
 
 # Books
 
