@@ -3,48 +3,39 @@
 List of online courses I've completed, including notes and projects.
 
 - TODO: [A practical guide to Kubernetes](https://www.educative.io/module/a-practical-guide-to-kubernetes)
-- [AWS Certified Solutions Architect](https://github.com/cgebbe/aws_certificates)
-- [Data Engineer Nanodegree by Udacity](https://github.com/cgebbe/udacity_data_engineer)
-- [Udemy NoCode courses (bubble, zapier, figma, etc.)](https://github.com/cgebbe/nocode_information)
-- [Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
-- [Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
-- [Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
-- [AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
-- [Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
-- [SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
-- [Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
-- [How to win a data science competition by Coursera](https://github.com/cgebbe/coursera_win_competition)
-- [Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
-- [Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
+- [2023 AWS Certified Solutions Architect](https://github.com/cgebbe/aws_certificates)
+- [2023 Data Engineer Nanodegree by Udacity](https://github.com/cgebbe/udacity_data_engineer)
+- [2023 Udemy NoCode courses (bubble, zapier, figma, etc.)](https://github.com/cgebbe/nocode_information)
+- [2023 Grokking Modern System Design Interview (no notes)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- [2022 Cloud DevOps Engineer Nanodegree by Udacity](https://github.com/cgebbe/course_udacity_cloud_devops)
+- [2022 Machine Learning Engineering for Production by Coursera](https://github.com/cgebbe/coursera_mlops_specialization)
+- [2022 AWS Cloud Technical Essentials by Coursera](https://github.com/cgebbe/course_aws_cloud_technical_essentials)
+- [2022 Spark and Python for Big Data with PySpark by Udemy](https://github.com/cgebbe/course_pyspark_bigdata_udemy)
+- [2022 SQL for Data Science by Coursera](https://github.com/cgebbe/course_sql_for_data_science)
+- [2021 Full Stack Deep Learning by UC Berkley](https://github.com/cgebbe/course_full_stack_deep_learning)
+- [2021 How to win a data science competition by Coursera](https://github.com/cgebbe/coursera_win_competition)
+- [2020 Robotics: Perception by Coursera](https://github.com/cgebbe/coursera_robotics_perception)
+- [2019 Self-Driving Car Engineer Nanodegree by Udacity](https://cgebbe.github.io/udacity_nanodegree_selfdriving)
 
-# Original Code
+# Code examples
 
-Examples of publicly available code I've written.
+Examples of publicly available code I've written (:book:=library, :test_tube:=data science, :robot:=experiments)
 
-## Python libraries
-
-- [Elliptio: Saving files to a data lake with reproducibility and metadata](https://github.com/cgebbe/elliptio_data_lake)
-- [Cachephant: Caching function output to disk](https://github.com/cgebbe/cachephant)
-- [Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
-
-## Data Science Projects
-
-- [Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
-- [Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
-- [Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
-- [Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
-- [Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
-- [Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
-
-## Sandboxes
-
-- [Syncing local code to Kaggle (enefit energy prediction challenge)](https://github.com/cgebbe/kaggle_enefit_predict_energy)
-- [Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
-- [Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
-- [Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
-- [Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
-- [Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
-- [~150 solved problems in leetcode](https://leetcode.com/cgebbe/)
+- [2024 :book: Elliptio: Saving files to a data lake with reproducibility and metadata](https://github.com/cgebbe/elliptio_data_lake)
+- [2024 :book: Cachephant: Caching function output to disk](https://github.com/cgebbe/cachephant)
+- [2024 :robot: Syncing local code to Kaggle (enefit energy prediction challenge)](https://github.com/cgebbe/kaggle_enefit_predict_energy)
+- [2024 :book: Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
+- [2022 :robot: Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
+- [2022 :test_tube: Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
+- [2022 :robot: Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
+- [2021 :test_tube: Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
+- [2021 :robot: Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [2021 :test_tube: Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
+- [2020 :test_tube: Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
+- [2020 :test_tube: Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
+- [2020 :test_tube: Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
+- [2020 :robot: Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
+- [2019 :test_tube: Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 
 # Books
 
