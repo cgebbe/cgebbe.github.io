@@ -27,14 +27,14 @@ Examples of publicly available code I've written.
 - [2024 Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
 - [2022 Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
 - [2022 Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
-- [2022 (EXP) Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
+- [2022 Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
 - [2021 Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
-- [2021 (EXP) Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [2021 Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
 - [2021 Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
 - [2020 Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
 - [2020 Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
 - [2020 Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
-- [2020 (EXP) Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
+- [2020 Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
 - [2019 Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 
 # Books
