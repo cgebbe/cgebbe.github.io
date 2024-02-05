@@ -19,23 +19,23 @@ List of online courses I've completed, including notes and projects.
 
 # Code examples
 
-Examples of publicly available code I've written (:book:=library, :test_tube:=data science, :robot:=experiments)
+Examples of publicly available code I've written.
 
-- [2024 :book: Elliptio: Saving files to a data lake with reproducibility and metadata](https://github.com/cgebbe/elliptio_data_lake)
-- [2024 :book: Cachephant: Caching function output to disk](https://github.com/cgebbe/cachephant)
-- [2024 :robot: Syncing local code to Kaggle (enefit energy prediction challenge)](https://github.com/cgebbe/kaggle_enefit_predict_energy)
-- [2024 :book: Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
-- [2022 :robot: Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
-- [2022 :test_tube: Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
-- [2022 :robot: Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
-- [2021 :test_tube: Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
-- [2021 :robot: Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
-- [2021 :test_tube: Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
-- [2020 :test_tube: Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
-- [2020 :test_tube: Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
-- [2020 :test_tube: Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
-- [2020 :robot: Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
-- [2019 :test_tube: Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
+- [2024 Elliptio: Saving files to a data lake with reproducibility and metadata](https://github.com/cgebbe/elliptio_data_lake)
+- [2024 Cachephant: Caching function output to disk](https://github.com/cgebbe/cachephant)
+- [2024 Syncing local code to Kaggle (enefit energy prediction challenge)](https://github.com/cgebbe/kaggle_enefit_predict_energy)
+- [2024 Beardataclass: Converting between Dataclasses and Dataframes](https://github.com/cgebbe/beardataclass)
+- [2022 Deploying an ML model with a REST API to AWS Lambda](https://github.com/cgebbe/prototype_aws_lambda)
+- [2022 Identifiying named entities including entity-links using Huggingface](https://github.com/cgebbe/prototype_relation_extraction)
+- [2022 (EXP) Deploying a FastAPI or Streamlit App to Heroku](https://github.com/cgebbe/prototype_heroku_streamlit)
+- [2021 Clustering job postings using BERT embeddings](https://cgebbe.medium.com/clustering-job-postings-by-skills-b33e0ad579ff)
+- [2021 (EXP) Developing inside (Kaggle) docker containers (ventilator pressure prediction challenge)](https://github.com/cgebbe/kaggle_ventilator_pressure)
+- [2021 Predicting future sales (Kaggle)](https://github.com/cgebbe/kaggle_predict_future_sales)
+- [2020 Understanding Bayes, Kalman and particle filter](https://github.com/cgebbe/demo_kalman)
+- [2020 Estimating a 3D world from 2D RGB images using SLAM and OpenCV](https://github.com/cgebbe/demo_slam)
+- [2020 Understanding the optimization algorithm ADAM](https://github.com/cgebbe/demo_optimizer)
+- [2020 (EXP) Transferring an image style according to Gatys et al. using PyTorch](https://github.com/cgebbe/demo_style_gatys)
+- [2019 Detecting cars and their 3D pose in 2D images (Kaggle)](https://github.com/cgebbe/kaggle_pku-autonomous-driving)
 
 # Books
 
